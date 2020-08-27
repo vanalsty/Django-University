@@ -1,2 +1,2 @@
-# Django-University
+Django Unviversity app
  
